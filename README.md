@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/FFI0181-Laboratorio-de-Fisica-Geral-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:40.373955Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/FFI0181-Laboratorio-de-Fisica-Geral-II?utm_source=FFI0181-Laboratorio-de-Fisica-Geral-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:29.687593Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
